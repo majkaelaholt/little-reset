@@ -2,6 +2,8 @@
 
 Little Reset is a mobile-friendly cleaning tracker/PWA for keeping a home maintained through small recurring tasks. It is built as a static web app with no backend and no build step.
 
+Future Codex chats should read `CODEX.md` first.
+
 ## What it does
 
 - Tracks rooms, recurring tasks, task types, effort, priority, tags, due dates, snoozes, skips, and completions.
@@ -22,6 +24,7 @@ Little Reset is a mobile-friendly cleaning tracker/PWA for keeping a home mainta
 - icon.svg: App icon.
 - sw.js: Lightweight service worker cache.
 - README.md: This guide.
+- CODEX.md: Future Codex workflow and app-specific maintenance guide.
 
 ## How data is saved
 
