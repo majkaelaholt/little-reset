@@ -49,10 +49,13 @@ Then open:
 
 ## Host on GitHub Pages
 
-1. Put the files in a GitHub repository.
-2. In repository settings, enable Pages for the branch and folder that contain index.html.
-3. Visit the published Pages URL.
-4. On iPhone, open the site in Safari and use Add to Home Screen.
+This app is ready to publish from the repository root. In GitHub, use these Pages settings:
+
+- Source: Deploy from a branch
+- Branch: main
+- Folder: /root
+
+After saving, visit the published Pages URL. On iPhone, open the site in Safari and use Add to Home Screen.
 
 ## Backup and import
 
